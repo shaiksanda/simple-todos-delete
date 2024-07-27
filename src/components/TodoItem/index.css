@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.title-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin: 10px;
+  font-weight: 500;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  border: 1px solid #ff0b37;
+  border-radius: 8px;
+  color: #ff0b37;
+  width: 100px;
+  height: 30px;
+  background-color: #ffffff;
+}
